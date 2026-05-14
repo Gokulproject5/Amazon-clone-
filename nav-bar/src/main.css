@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.icon{
+    color: rgb(235, 181, 82);
+    font-size: large;
+   
+}
+.nav-logo{
+    width: 100px;
+    height: 50px;
+   
+}
+.ind-nav{
+    width: 20px;
+    height: 15px;
+     border-radius: 1px;
+}
